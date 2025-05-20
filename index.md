@@ -80,7 +80,7 @@ You may purchase an auto-renewing subscription through an In-App Purchase.
 
 • Current subscription may not be cancelled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your iTunes Account Settings after purchase
 
-• Privacy policy: https://www.termsfeed.com/live/8e96eb48-2cbd-4f25-9210-a44bba47d91b
+• Privacy policy: https://njaistudio.github.io/jlptkanji_tou
 
 • Terms of use:  https://www.apple.com/legal/internet-services/itunes/dev/stdeula
 
